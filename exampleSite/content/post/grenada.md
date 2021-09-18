@@ -8,8 +8,10 @@ image_webp = "images/blog/blog-1.webp"
 title = "Grenada"
 
 +++
+![](/images/pxl_20210910_211147810.jpg)![](/images/pxl_20210913_152823513.jpg)![](/images/pxl_20210910_211241726-portrait.jpg)
+
     <figure>
-        <figcaption>Listen to the audio:</figcaption>
+        <figcaption>Listen:</figcaption>
         <audio
             controls
             src="/media/cc0-audio/t-rex-roar.mp3">
