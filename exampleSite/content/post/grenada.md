@@ -7,6 +7,8 @@ image_webp = "images/blog/blog-1.webp"
 title = "Grenada"
 
 +++
+<p>
+
 Driving is a death trap | Cats | Underwater world | Quarantine days | Pancakes | Frogs singing
 <p>
 <figure>
