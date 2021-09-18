@@ -7,16 +7,10 @@ image_webp = "images/blog/blog-1.webp"
 title = "Grenada"
 
 +++
-Driving is a death trap. Cats. Underwater world. Quarantine days. Pancakes. Frogs singing. 
-
-![](/images/pxl_20210910_211147810.jpg)![](/images/pxl_20210910_211241726-portrait.jpg)
-
-![](/images/pxl_20210902_202221529.jpg)
-
-![](/images/pxl_20210906_135405934.jpg)
-
+Driving is a death trap | Cats | Underwater world | Quarantine days | Pancakes | Frogs singing
+<p>
 <figure>
-<figcaption>Listen:</figcaption>
+<figcaption>Listen to the sounds of Grenada:</figcaption>
 <audio
 controls
 src="/images/podington-bear-desormais.mp3">
@@ -24,3 +18,10 @@ Your browser does not support the
 <code>audio</code> element.
 </audio>
 </figure>
+<p>
+![](/images/pxl_20210910_211147810.jpg)![](/images/pxl_20210910_211241726-portrait.jpg)
+
+![](/images/pxl_20210902_202221529.jpg)
+
+![](/images/pxl_20210906_135405934.jpg)
+
