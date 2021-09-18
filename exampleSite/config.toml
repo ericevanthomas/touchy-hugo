@@ -4,7 +4,7 @@ googleAnalytics = ""
 paginate = "3"
 summaryLength = "50"
 theme = "touchy-hugo"
-title = "Touchy Hugo | Minimal Blog Theme"
+title = "The Voyage of the Nethermead"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
