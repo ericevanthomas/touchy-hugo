@@ -25,7 +25,7 @@ custom_script = ""
 description = "This is meta description"
 email = "ericevanthomas@gmail.com"
 favicon = "images/favicon.png"
-logo = "images/logo.png"
+logo = "/images/nethermead-logo-cropped-resized.webp"
 logo_width = "100px"
 mobile = "12068593842"
 [params.cookies]
