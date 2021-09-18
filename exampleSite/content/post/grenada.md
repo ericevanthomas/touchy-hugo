@@ -9,6 +9,10 @@ title = "Grenada"
 +++
 We arrived in Grenada at the beginning of September. Up first was a two-day mandatory quarantine in an approved hotel. After that, we moved into an Airbnb.
 
+We arrived in Grenada at the beginning of September. Up first was a two-day mandatory quarantine in an approved hotel. After that, we moved into an Airbnb.
+
+We arrived in Grenada at the beginning of September. Up first was a two-day mandatory quarantine in an approved hotel. After that, we moved into an Airbnb.
+
 <p>
 
 Driving is a death trap | Cats | Underwater world | Quarantine days | Pancakes | Frogs singing
