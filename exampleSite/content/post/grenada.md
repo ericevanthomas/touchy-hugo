@@ -11,11 +11,11 @@ title = "Grenada"
 
 ### Listen To the Sounds of Grenada
 
-<figure> <figcaption>Listen to the sounds of Grenada:</figcaption> <audio controls src="/images/podington-bear-desormais.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
+<figure> <figcaption></figcaption> <audio controls src="/images/podington-bear-desormais.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
 
 ### Grenada Impressions
 
-##### Frogs singing at dusk. Prickly heat swirling her belly button. Leon discovers water shimmering. Floating on back, looking at clouds. Weekend quarantine. Daiquiri. Sweat dripping under N95. Roti skins tucked in the fridge. Solving mysteries with Frank and Susan. Roar of the car mechanic. Beach closes at morning snack. Whistles blowing. Outdoor dining tables upside down. No see ums searching. Good afternoon, good night. Potty training Margot. Dog friend nestles between wheels.. Hello, goat. Driving near the edge. Missing playgrounds.
+<span class="impressions">Frogs singing at dusk. Prickly heat swirling her belly button. Leon discovers water shimmering. Floating on back, looking at clouds. Weekend quarantine. Daiquiri. Sweat dripping under N95. Roti skins tucked in the fridge. Solving mysteries with Frank and Susan. Roar of the car mechanic. Beach closes at morning snack. Whistles blowing. Outdoor dining tables upside down. No see ums searching. Good afternoon, good night. Potty training Margot. Dog friend nestles between wheels.. Hello, goat. Driving near the edge. Missing playgrounds.</span>
 
 <br>
 
