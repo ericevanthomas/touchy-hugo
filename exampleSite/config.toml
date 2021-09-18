@@ -2,7 +2,7 @@ baseURL = "https://nethermead.netlify.com"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
-summaryLength = "50"
+summaryLength = "0"
 theme = "touchy-hugo"
 title = "The Voyage of the Nethermead"
 [markup.goldmark.renderer]
@@ -26,7 +26,7 @@ description = "This is meta description"
 email = "ericevanthomas@gmail.com"
 favicon = "images/favicon.png"
 logo = "/images/nethermead-logo-cropped-resized.webp"
-logo_width = "100px"
+logo_width = "200px"
 mobile = "1-206-859-3842"
 [params.cookies]
 enable = false
