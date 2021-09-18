@@ -2,7 +2,7 @@ baseURL = "https://nethermead.netlify.com"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
-summaryLength = "50"
+summaryLength = "0"
 theme = "touchy-hugo"
 title = "The Voyage of the Nethermead"
 [markup.goldmark.renderer]
