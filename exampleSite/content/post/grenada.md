@@ -7,6 +7,7 @@ image_webp = "images/blog/blog-1.webp"
 title = "Grenada"
 
 +++
+
 We arrived in Grenada at the beginning of September. Up first was a two-day mandatory quarantine in an approved hotel. After that, we moved into an Airbnb.
 
 We arrived in Grenada at the beginning of September. Up first was a two-day mandatory quarantine in an approved hotel. After that, we moved into an Airbnb.
