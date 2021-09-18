@@ -1,5 +1,5 @@
 +++
-categories = ["Grenada"]
+categories = []
 date = 2020-09-01T05:07:10Z
 description = "this is meta description"
 image = "/images/pxl_20210913_152823513.jpg"
