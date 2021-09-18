@@ -3,7 +3,7 @@
     <!--{{ range .Params.categories }}
     <a class="post-meta" href="{{`categories/` | absURL}}{{. | lower | urlize}}">{{.| humanize}}</a>
     {{ end }} -->
-    <h3 class="my-3"><a class="post-title" href="{{.Permalink}}">{{.Title}}</a></h3>
+    <h3 class="my-3"><a class="post-title" href="{{.Permalink}}">{{.Title}}</a></h2>
     <span class="post-date">{{.PublishDate.Format "02 Jan, 2006"}}</span>
   </div>
   <a href="{{.Permalink}}"><img loading="lazy" class="img-fluid" src="{{ .Params.image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .Params.image | absURL }}'" alt="{{.Title}}"></a>
