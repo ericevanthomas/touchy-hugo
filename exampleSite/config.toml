@@ -18,16 +18,16 @@ weight = 1
 [outputs]
 home = ["HTML", "RSS"]
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
-copyright = "Designed & Developed By [Gethugothemes](https://gethugothemes.com/)"
+address = "609 Piper Dr"
+author = "Eric, Alex, Leon & Margot"
+copyright = "All images copyright Eric Thomas 2021"
 custom_script = ""
 description = "This is meta description"
-email = "info@email.com"
+email = "ericevanthomas@gmail.com"
 favicon = "images/favicon.png"
-logo = "images/logo.png"
+logo = "/images/nethermead-logo-cropped-resized.webp"
 logo_width = "100px"
-mobile = "+211234565523"
+mobile = "1-206-859-3842"
 [params.cookies]
 enable = false
 expire_days = 2
