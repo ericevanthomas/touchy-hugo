@@ -1,7 +1,7 @@
 +++
 description = "this is meta description"
 draft = true
-image = "/images/pxl_20210910_211147810.jpg"
+image = ""
 title = "LOCATION"
 
 +++
