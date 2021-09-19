@@ -8,11 +8,11 @@ title = "The Voyage of the Nethermead"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Contact"
+name = "CONTACT"
 url = "contact"
 weight = 2
 [[menu.main]]
-name = "About"
+name = "ABOUT"
 url = "about"
 weight = 1
 [outputs]
