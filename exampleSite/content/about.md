@@ -10,11 +10,11 @@ When we told our friends that we wanted to live on a boat for a year with our tw
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                <img alt="" class="resize-image center-block" id="image1" src="/wp-content/themes/creativeforces/images/kid2.jpg" /> 
+                <img alt="" class="resize-image center-block" id="image1" src="/images/pxl_20210910_211241726-portrait.jpg" /> 
                 <p class="text-center">Teach</p></div>
-                <div class="col-md-4"><img alt="" class="resize-image center-block" id="image2" src="/wp-content/themes/creativeforces/images/kid2.jpg" />
+                <div class="col-md-4"><img alt="" class="resize-image center-block" id="image2" src="/images/pxl_20210910_211241726-portrait.jpg" />
                 <p class="text-center">Read</p></div>
-                 <div class="col-md-4"><img alt="" class="resize-image center-block" id="image3" src="/wp-content/themes/creativeforces/images/kid2.jpg" />
+                 <div class="col-md-4"><img alt="" class="resize-image center-block" id="image3" src="/images/pxl_20210910_211241726-portrait.jpg" />
                 <p class="text-center">Play</p></div>
             </div>
         </div>
