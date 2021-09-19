@@ -1,6 +1,5 @@
 +++
 description = "this is meta description"
-draft = true
 image = ""
 title = "LOCATION"
 
