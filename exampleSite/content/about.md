@@ -21,7 +21,7 @@ When we told our friends that we wanted to live on a boat for a year with our tw
 
 <div class="container">
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-lg-6 mb-4">
 <div class="card-deck">
   <div class="card">
     <img src="/images/pxl_20210910_211241726-portrait.jpg" class="card-img-top" alt="...">
