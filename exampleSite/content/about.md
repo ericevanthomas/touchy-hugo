@@ -18,6 +18,9 @@ When we told our friends that we wanted to live on a boat for a year with our tw
         </div>
 </section>
 
+
+<div class="row">
+  <div class="col-sm-6">
 <div class="card-deck">
   <div class="card">
     <img src="/images/pxl_20210910_211241726-portrait.jpg" class="card-img-top" alt="...">
@@ -44,3 +47,5 @@ When we told our friends that we wanted to live on a boat for a year with our tw
     </div>
   </div>
 </div>
+  </div>
+  </div>
