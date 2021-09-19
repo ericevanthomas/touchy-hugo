@@ -14,7 +14,7 @@ When we told our friends that we wanted to live on a boat for a year with our tw
       <img src="/images/pxl_20210910_211241726-portrait.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h3 class="card-title text-center">ERIC</h3>
-        <p class="card-text">It's a broader card with text below as a natural lead-in to extra content. This content is a little longer.</p>
+        <p class="card-text">Eric can't hide his enthusiasm for sailing, and he was the chief instigator of this trip. He grew up sailing on the lakes of Wisconsin and then graduated to the Gulf of Mexico and then the Atlantic Ocean, which he has sailed across twice. He has earned his 100-ton captain's license and worked on several historical wooden schooners. When not geeking out about sailing, Eric likes to cook, read, and bike.</p>
       </div>
     </div>
   </div>
