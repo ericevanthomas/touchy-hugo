@@ -36,7 +36,7 @@ When we told our friends that we wanted to live on a boat for a year with our tw
       <img src="/images/pxl_20210910_211241726-portrait.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h3 class="card-title text-center">LEON</h3>
-        <p class="card-text">It's a broader card with text below as a natural lead-in to extra content. This content is a little longer.</p>
+        <p class="card-text">Leon is a bright, sensitive, curious, and energetic five-year-old. He likes to call himself “The Son of Sherlock Holmes.” You can often find Leon solving mysteries, writing stories, listening to audio books, or asking questions about how the world works as well as his place in it. He used to hang back at playgrounds but now he dives right in. Leon can out-tag any kid and would eat cookies all day if we let him. </p>
       </div>
     </div>
   </div>
@@ -45,7 +45,7 @@ When we told our friends that we wanted to live on a boat for a year with our tw
       <img src="/images/pxl_20210910_211241726-portrait.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h3 class="card-title text-center">MARGOT</h3>
-        <p class="card-text">It's a broader card with text below as a natural lead-in to extra content. This content is a little longer.</p>
+        <p class="card-text">Margot is a smart, loquacious, adventurous, tender, and squirmy two-year-old. Her favorite phrases are, “I can do it myself” or “why?”. Margot learned to put her own shoes on at eighteen months, on the correct feet. She is usually really happy until she is really not. You can often find Margot taking care of her baby doll, wrestling with her brother, touching every button and pulling every handle around, or swinging in a baby swing. </p>
       </div>
     </div>
   </div>
