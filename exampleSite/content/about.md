@@ -19,6 +19,7 @@ When we told our friends that we wanted to live on a boat for a year with our tw
 </section>
 
 
+<div class="container">
 <div class="row">
   <div class="col-md-6">
 <div class="card-deck">
@@ -47,5 +48,6 @@ When we told our friends that we wanted to live on a boat for a year with our tw
     </div>
   </div>
 </div>
+  </div>
   </div>
   </div>
