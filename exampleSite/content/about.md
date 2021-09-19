@@ -11,9 +11,9 @@ When we told our friends that we wanted to live on a boat for a year with our tw
             <div class="row">
                 <div class="col-md-6">
                 <img alt="" class="resize-image center-block" id="image1" src="/images/pxl_20210910_211241726-portrait.jpg" /> 
-                <p class="text-center">ERIC</p></div>
+                <h3 class="text-center">ERIC</p></div>
                 <div class="col-md-6"><img alt="" class="resize-image center-block" id="image2" src="/images/pxl_20210910_211241726-portrait.jpg" />
-                <p class="text-center">ALEX</p></div>              
+                <h3 class="text-center">ALEX</p></div>              
             </div>
         </div>
   </section>
@@ -23,9 +23,9 @@ When we told our friends that we wanted to live on a boat for a year with our tw
             <div class="row">
                 <div class="col-md-6">
                 <img alt="" class="resize-image center-block" id="image1" src="/images/pxl_20210910_211241726-portrait.jpg" /> 
-                <p class="text-center">ERIC</p></div>
+                <h3 class="text-center">LEON</p></div>
                 <div class="col-md-6"><img alt="" class="resize-image center-block" id="image2" src="/images/pxl_20210910_211241726-portrait.jpg" />
-                <p class="text-center">ALEX</p></div>              
+                <h3 class="text-center">MARGOT</p></div>              
             </div>
         </div>
   </section>
