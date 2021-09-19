@@ -5,3 +5,17 @@ image: ''
 
 ---
 When we told our friends that we wanted to live on a boat for a year with our two young kids, some said, “That sounds really hard” and others said, “You’re living the dream.” The reality is that both are true. We have been planning this adventure for years, wanting to expose our children to new cultures, turquoise waters, challenge, beauty, and the wonders of sailing. A dozen Excel spreadsheets later, here we are, making it happen. For the next 10-months we’ll be sailing north up through the Caribbean back to the United States, stopping where we can. We have an idea of where we want to go but also know that the future is uncertain.
+
+ <section class="part2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                <img alt="" class="resize-image center-block" id="image1" src="/wp-content/themes/creativeforces/images/kid2.jpg" /> 
+                <p class="text-center">Teach</p></div>
+                <div class="col-md-4"><img alt="" class="resize-image center-block" id="image2" src="/wp-content/themes/creativeforces/images/kid2.jpg" />
+                <p class="text-center">Read</p></div>
+                 <div class="col-md-4"><img alt="" class="resize-image center-block" id="image3" src="/wp-content/themes/creativeforces/images/kid2.jpg" />
+                <p class="text-center">Play</p></div>
+            </div>
+        </div>
+</section>
