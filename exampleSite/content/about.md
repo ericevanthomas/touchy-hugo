@@ -39,7 +39,7 @@ When we told our friends that we wanted to live on a boat for a year with our tw
     <div class="card">
       <img src="/images/pxl_20210910_211241726-portrait.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h3 class="card-title">ERIC</h3>
+        <h3 class="card-title text-center">ERIC</h3>
         <p class="card-text">It's a broader card with text below as a natural lead-in to extra content. This content is a little longer.</p>
       </div>
     </div>
