@@ -34,7 +34,7 @@ When we told our friends that we wanted to live on a boat for a year with our tw
 </div>
 <div class="col-sm-6">
 <div class="card">
-<img src="/images/pxl_20210910_211241726-portrait.jpg" class="card-img-top" alt="...">
+<img src="/images/margot-portrait3.webp" class="card-img-top" alt="...">
 <div class="card-body">
 <h3 class="card-title text-center">MARGOT</h3>
 <p class="card-text">Margot is a smart, loquacious, adventurous, tender, and squirmy two-year-old. Her favorite phrases are, “I can do it myself” or “why?”. Margot learned to put her own shoes on at eighteen months, on the correct feet. She is usually really happy until she is really not. You can often find Margot taking care of her baby doll, wrestling with her brother, touching every button and pulling every handle around, or swinging in a baby swing. </p>
