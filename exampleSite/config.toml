@@ -44,7 +44,7 @@ link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/brands.min
 attributes = "data-turbolinks-suppress-warning defer"
 link = "plugins/turbolinks/turbolinks.js"
 [[params.social]]
-icon = "fa-solid fa-envelope"
+icon = "fa-envelope"
 link = "mailto:ericevanthomas@gmail.com"
 title = "Email"
 [[params.social]]
