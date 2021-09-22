@@ -10,7 +10,7 @@ unsafe = true
 [[menu.main]]
 name = "CONTACT"
 url = "contact"
-weight = 2
+weight = 3
 [[menu.main]]
 name = "ABOUT"
 url = "about"
