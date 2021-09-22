@@ -10,7 +10,7 @@ unsafe = true
 [[menu.main]]
 name = "CONTACT"
 url = "contact"
-weight = 2
+weight = 3
 [[menu.main]]
 name = "ABOUT"
 url = "about"
@@ -44,22 +44,10 @@ link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/brands.min
 attributes = "data-turbolinks-suppress-warning defer"
 link = "plugins/turbolinks/turbolinks.js"
 [[params.social]]
-icon = "fab fa-facebook"
-link = "#"
-title = "facebook"
+icon = "fa-envelope"
+link = "mailto:ericevanthomas@gmail.com"
+title = "Email"
 [[params.social]]
-icon = "fab fa-twitter"
-link = "#"
-title = "twitter"
-[[params.social]]
-icon = "fab fa-instagram"
-link = "#"
-title = "instagram"
-[[params.social]]
-icon = "fab fa-github"
-link = "#"
-title = "github"
-[[params.social]]
-icon = "fab fa-linkedin"
-link = "#"
-title = "linkedin"
+icon = "fa-brands fa-whatsapp"
+link = "wa.me/12068593842"
+title = "WhatsApp"
