@@ -8,6 +8,6 @@ weight = 2
 +++
 <div class="iframe-wrap">
 
-  <iframe src="http://forecast.predictwind.com/tracking/display/Nethermead"></iframe>
+  <iframe src="https://forecast.predictwind.com/tracking/display/Nethermead"></iframe>
 
 </div>
