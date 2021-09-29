@@ -5,12 +5,7 @@ description: this is meta description
 ---
 [Email ](mailto:ericevanthomas@gmail.com)the crew of the Nethermead.
 
-<<<<<<< HEAD
 Contact us via [WhatsApp](https://wa.me/12068593842).
-=======
-Contact us via [WhatsApp](https://wa.me/12068593842).
-
-<h2>Sign Up for Notifications </h2>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
