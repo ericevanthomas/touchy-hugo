@@ -7,7 +7,7 @@ description: this is meta description
 
 Contact us via [WhatsApp](https://wa.me/12068593842).
 
-<h2>Sign Up for Notifications </h2>
+Sign Up for Notifications
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
