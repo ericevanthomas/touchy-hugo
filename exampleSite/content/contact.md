@@ -35,4 +35,3 @@ Contact us via [WhatsApp](https://wa.me/12068593842).
 </div>
 
 <!--End mc_embed_signup-->
->>>>>>> parent of 060446f (Update from Forestry.io)
