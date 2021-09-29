@@ -1,6 +1,7 @@
 ---
 title: ABOUT
-description: this is meta description
+description: About our family of four doing a yearlong sabbatical sail through the
+  Caribbean.
 image: ''
 
 ---
