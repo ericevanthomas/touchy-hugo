@@ -3,29 +3,10 @@ title: CONTACT
 description: this is meta description
 
 ---
-[Email ](mailto:ericevanthomas@gmail.com)the crew of the Nethermead.
+We love to connect with other people. To share stories, information, encouragement, and to ask each other questions. If you are on another kid boat, have dreams of doing a family sail one day, or just want to say hello, we’d love to hear from you. Our internet connection may be spotty at times, but we’ll get back to you as soon as we can.
 
-Contact us via [WhatsApp](https://wa.me/12068593842).
+[**Email**](mailto:ericevanthomas@gmail.com) **the crew of the Nethermead.**
 
-<!-- Begin Mailchimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="https://gmail.us19.list-manage.com/subscribe/post?u=b01554f33c1fb2be8c17cc1b7&amp;id=1d6515eb75" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b01554f33c1fb2be8c17cc1b7_1d6515eb75" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
+**Contact us via** [**WhatsApp**](https://wa.me/12068593842)**.**
 
-<!--End mc_embed_signup-->
+[**Subscribe to our blog**](https://mailchi.mp/c2ece8dc12b2/nethermead) **for updates.**
