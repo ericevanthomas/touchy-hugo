@@ -5,6 +5,7 @@
 <body>
 	{{ partialCached "header.html" . }}
 	{{ block "main" . }}{{ end }}
+	{{ partialCached "signup.html" }}{{ end }}
 	{{ partialCached "footer.html" . }}
 	{{ partialCached "script.html" . }}
 </body>
