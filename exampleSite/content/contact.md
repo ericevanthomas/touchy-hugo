@@ -8,12 +8,6 @@ description: this is meta description
 Contact us via [WhatsApp](https://wa.me/12068593842).
 
 <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:800px;}
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
 <div id="mc_embed_signup">
 <form action="https://gmail.us19.list-manage.com/subscribe/post?u=b01554f33c1fb2be8c17cc1b7&amp;id=1d6515eb75" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
