@@ -2,6 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12 text-center">
+				{{ partial "signup.html" . }}
 				<a class="text-dark h3" href="{{ site.BaseURL | relLangURL }}">
 					{{ if site.Params.logo }}
 					<img class="img-fluid" width="150px}}" src="/images/nethermead-logo-cropped-resized.webp"
