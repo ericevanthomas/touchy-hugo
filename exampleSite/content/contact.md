@@ -1,6 +1,6 @@
 ---
 title: CONTACT
-description: this is meta description
+description: 'Contact the crew of the Nethermead: Eric, Alex, Leon & Margot'
 
 ---
 We love to connect with other people. To share stories, information, encouragement, and to ask each other questions. If you are on another kid boat, have dreams of doing a family sail one day, or just want to say hello, we’d love to hear from you. Our internet connection may be spotty at times, but we’ll get back to you as soon as we can.
