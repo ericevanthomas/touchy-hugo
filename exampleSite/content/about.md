@@ -7,9 +7,11 @@ image: ''
 ---
 ![](/images/sv-nethermead-800px.jpg)
 
-<h3>We Were Tired of Living in a House</h3>
+<h3>We Were Tired of Living in a House*</h3>
 
 When we told our friends that we wanted to take a sabbatical and live on a boat for a year with our two young kids, some said, “That sounds really hard,” and others said, “You’re living the dream.” The reality is that both are true. We have been planning this adventure for years, wanting to expose our children to new cultures, turquoise waters, challenge, beauty, and the wonders of sailing. A dozen Excel spreadsheets later, here we are, making it happen. We put our house in Madison, Wisconsin, up for rent and packed our things. For the next ten months, we’ll be sailing north, up through the Caribbean, back to the United States, stopping where we can. We have an idea of where we want to go but also know that the future is uncertain. We’re going to try and roll with that.
+
+_*Thanks to Auntie and Unc for gifting us this_ [_fun picture book_](https://www.purplehousepress.com/products/we-were-tired-of-living-in-a-house) _that's perfect for any family with wanderlust._ 
 
 <h3>A Good Omen for Our Trip</h3>
 
