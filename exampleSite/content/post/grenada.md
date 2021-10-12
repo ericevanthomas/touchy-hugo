@@ -7,7 +7,7 @@ image_webp = "images/blog/blog-1.webp"
 title = "GRENADA"
 
 +++
-<p> <p> 
+<p> <p>
 
 ### Listen To the Sounds of Grenada
 
@@ -15,7 +15,7 @@ title = "GRENADA"
 
 ### Grenada Impressions
 
-<span class="impressions">Frogs singing at dusk. Prickly heat swirling her belly button. Leon discovers water shimmering. Floating on back, looking at clouds. Weekend quarantine. Daiquiri. Sweat dripping under N95. Roti skins tucked in the fridge. Solving mysteries with Frank and Susan. Roar of the car mechanic. Beach closes at morning snack. Whistles blowing. Outdoor dining tables upside down. No see ums searching. Good afternoon, good night. Potty training Margot. Dog friend nestles between wheels.. Hello, goat. Driving near the edge. Missing playgrounds.</span>
+<span class="impressions">Frogs singing at dusk. Warmth everywhere, the sun and the people. Leon learns to swim. Floating on back, looking at clouds. Mandatory weekend quarantines in September. Lime daiquiris. Sweat dripping under N95. Roti skins tucked in the fridge. Getting boat ready. Solving mysteries with Frank and Susan, our AirBnB hosts. Roar from the neighboring car mechanic. Beach closes early. Whistles blowing. Grand Anse Beach. Fisherman on Hog Island. Michael Jackson and reggae on the radio. Outdoor dining tables turned upside down as a COVID precaution. Wild, overgrown cemeteries nestled between hills. Graves being dug. No see ums biting. Good afternoon, good night. Potty training Margot. Dog friend hides between the wheels of our car. Always searching for and buying water. Driving near the edge. Missing playgrounds. Schools of silver fish shimmering. Move onto the boat.</span>
 
 <br>
 
