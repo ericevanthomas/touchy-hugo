@@ -1,5 +1,5 @@
 +++
-description = "this is meta description"
+description = "Follow the location of the Nethermead. Our position is updated regularly via satellite."
 image = ""
 title = "LOCATION"
 [menu.main]
