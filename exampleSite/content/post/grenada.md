@@ -11,7 +11,7 @@ title = "GRENADA"
 
 ### Listen To the Sounds of Grenada
 
-<figure> <figcaption></figcaption> <audio controls src="/images/podington-bear-desormais.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
+<figure> <figcaption></figcaption> <audio controls src="/images/nethermead-blog-grenada-audio3.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
 
 ### Grenada Impressions & Experiences
 
