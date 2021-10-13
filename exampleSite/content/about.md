@@ -39,7 +39,7 @@ When Leon and Margot went for their wellness checks before our trip, we met a wo
 <img src="/images/margot-portrait3.webp" class="card-img-top" alt="...">
 <div class="card-body">
 <h3 class="card-title text-center">MARGOT</h3>
-<p class="card-text">During one of our early sails as a family, Margot was the first one to scream in excitement when the boat sailed into choppy seas. She is a smart, loquacious, adventurous, tender, and very squirmy two-year-old. Her favorite phrases are, “I can do it myself” and “why?” Margot learned to put her own shoes on the correct feet at eighteen months and regularly takes thirty minutes to talk herself to sleep. She is usually really happy until she is _really_ not. You can often find Margot taking care of her baby doll, coloring, pressing every button and pulling every handle in sight, or swinging in a baby swing.</p>
+<p class="card-text">During one of our early sails as a family, Margot was the first one to scream in excitement when the boat sailed into choppy seas. She is a smart, loquacious, adventurous, tender, and very squirmy two-year-old. Her favorite phrases are, “I can do it myself” and “why?” Margot learned to put her own shoes on the correct feet at eighteen months and regularly takes thirty minutes to talk herself to sleep. She is usually really happy until she is <i>really</i> not. You can often find Margot taking care of her baby doll, coloring, pressing every button and pulling every handle in sight, or swinging in a baby swing.</p>
 </div>
 </div>
 </div>
