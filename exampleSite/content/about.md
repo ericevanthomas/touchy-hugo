@@ -15,7 +15,7 @@ _*Thanks to Auntie and Unc for gifting us this <a href="https://www.purplehousep
 
 <h3>A Good Omen for Our Trip</h3>
 
-When Leon and Margot went for their wellness checks before our trip, we met a woman named Chong. She was the person who measured their head size, took their weight and height, and did Leon’s hearing and eyesight test. The kids and I told Chong about our sailing adventure. She was encouraging and curious about it. A few days later, our family returned to the doctor’s office to get flu shots and the woman at the front desk handed us this beautiful scrapbook. Chong had told her sister about our trip, and her sister who was also excited for us, made the scrapbook. Time went into this thing. We tell you this because in what feels like a year of many divisions, connections like these really matter. A stranger connecting to another stranger through kindness.
+When Leon and Margot went for their wellness checks before our trip, we met a woman named Chong. She was the person who measured their head size, took their weight and height, and did Leon’s hearing and eyesight test. The kids and I told Chong about our sailing adventure. She was encouraging and curious about it. A few days later, our family returned to the doctor’s office to get flu shots and the woman at the front desk handed us a beautiful scrapbook. Chong had told her sister about our trip, and her sister who was also excited for us, made the scrapbook. Time went into this thing. We tell you this because in what feels like a year of many divisions, connections like these really matter. A stranger connecting to another stranger through kindness.
 
 <section class="section-space">
 <h2 class="text-center section-space">MEET THE CREW</h2>
