@@ -1,9 +1,9 @@
 +++
 categories = []
-date = 2021-10-01T19:07:10Z
-description = "Grenada waterfall"
+date = 2021-11-29T19:07:10Z
+description = "Carriacou Windward Side"
 draft = true
-image = "/images/pxl_20210913_152823513.jpg"
+image = "/images/pxl_20211105_202932031.jpg"
 image_webp = "images/blog/blog-1.webp"
 title = "CARRIACOU"
 
@@ -12,12 +12,12 @@ title = "CARRIACOU"
 
 ### Listen To Sounds in Carriacou
 
-<figure> <figcaption></figcaption> <audio controls src="/images/nethermead-blog-grenada-audio3.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
+<figure> <figcaption></figcaption> <audio controls src="/images/nethermead-blog-carriacou-and-sandy-island-audio.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
 
-### Grenada Impressions & Experiences
+### Carriacou Impressions & Experiences
 
-<span class="impressions">Frogs singing at dusk. Warmth everywhere, the sun and the people. Leon learns to swim. Floating on back, looking at clouds. Mandatory weekend quarantines in September. Lime daiquiris. Sweat dripping under N95. Roti skins tucked in the fridge. Getting boat ready. Solving mysteries with Frank and Susan, our AirBnB hosts. Engine sounds from the neighboring car mechanic. Beach closes early. Whistles blowing. Grand Anse Beach. Fisherman on Hog Island. Michael Jackson and reggae on the radio. Outdoor dining tables turned upside down as a COVID precaution. Wild, overgrown cemeteries nestled between hills. Graves being dug. No see ums biting. Good afternoon, good night. Potty training Margot. Leon's first day of school. Dog friend hides between the wheels of our car. Always searching for and buying water. Driving near the edge. Missing playgrounds. Schools of silver fish shimmering. Moving onto the boat.</span>
+<span class="impressions">Sailing by Kick 'Em Jenny underwater volcano. Ex-pats and salty sailors at Tyrell Bay. Walking tour of little stores in the hills of Carriacou. Impromptu music. Less rain. Gusts of wind. Sleepless nights checking on the anchor. Leon sands a coconut. Gorgeous Sandy Island surrounded by reef. Anchorage fills up with our cruising friends. Strip of white sand and pelicans crashing down. Natural kiddie pool perfect for Margot. 5-star chef at Paradise Beach. Laundry piling up. Missing home. Missing lettuce. Hillsborough is the Venice Beach of Carriacou. Dinghy has a leak. Always bailing water.</span>
 
 <br>
 
-![Grenada waterfall](/images/pxl_20210913_161135358-1.jpg)![](/images/pxl_20210910_211147810.jpg)![](/images/pxl_20210906_150720375.jpg)![](/images/pxl_20210906_135405934.jpg)![](/images/pxl_20210910_211241726-portrait.jpg)![](/images/pxl_20210904_135342697.jpg)![](/images/pxl_20210902_202221529.jpg)![](/images/pxl_20210913_152844146.jpg)![](/images/pxl_20210906_152650176.jpg)![](/images/img_8029.jpg)![](/images/img_7376.jpg)![](/images/pxl_20210922_213034653.jpg)![](/images/pxl_20211004_153842846.jpg)![](/images/img_8036.jpg)![](/images/img_7865.jpg)![](/images/img_8308.jpg)![](/images/img_8026.jpg)![](/images/pxl_20210922_213018747.jpg)![](/images/img_8175.jpg)![](/images/pxl_20210913_161144246.jpg)![](/images/img_7408.jpg)![](/images/img_7977.jpg)![](/images/img_8200.jpg)![](/images/img_7980.jpg)![](/images/img_7362.jpg)![](/images/pxl_20211004_162652370.jpg)![](/images/pxl_20210906_135214682.jpg)![](/images/img_8286.jpg)![](/images/img_8168.jpg)![](/images/img_8020.jpg)![](/images/img_7896.jpg)![](/images/img_8321.jpg)![](/images/img_7342.jpg)![](/images/pxl_20210902_204712173-portrait.jpg)![](/images/img_8316.jpg)![](/images/img_8242.jpg)![](/images/img_7964.jpg)![](/images/pxl_20210924_130145841-portrait.jpg)![](/images/img_7988.jpg)![](/images/pxl_20210917_214256683.jpg)![](/images/img_7441.jpg)![](/images/img_8043.jpg)![](/images/pxl_20211010_124911088.jpg)![](/images/pxl_20210917_133831004.jpg)![](/images/pxl_20211005_184556185-1.jpg)![](/images/pxl_20211006_112539286.jpg)![](/images/pxl_20210928_154657372-portrait.jpg)![](/images/pxl_20210906_135333719.jpg)![](/images/img_7355.jpg)![](/images/pxl_20211011_112928260-portrait.jpg)![](/images/pxl_20210917_214238798-portrait_original.jpg)![](/images/img_7886.jpg)![](/images/img_7349.jpg)![](/images/img_7960.jpg)![](/images/img_7347.jpg)
+![](/images/img_9463.jpg)![](/images/img_9437.jpg)![](/images/pxl_20211104_145343030.jpg)![](/images/original_6db12b97-b197-4bac-bb38-43e394156ca3_pxl_20211105_203130647.jpg)![](/images/img_9476.jpg)![](/images/pxl_20211104_161511968.jpg)![](/images/img_9486.jpg)![](/images/pxl_20211105_202932031.jpg)![](/images/pxl_20211103_143219859.jpg)![](/images/img_9497.jpg)![](/images/pxl_20211105_191936957.jpg)![](/images/pxl_20211105_202619504.jpg)![](/images/pxl_20211104_145350166.jpg)![](/images/pxl_20211105_121653645.jpg)![](/images/pxl_20211104_161708774.jpg)![](/images/pxl_20211103_143212424.jpg)![](/images/pxl_20211104_145335566.jpg)![](/images/img_9473.jpg)![](/images/img_9540.jpg)
