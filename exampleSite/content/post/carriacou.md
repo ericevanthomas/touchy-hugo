@@ -10,7 +10,7 @@ title = "CARRIACOU"
 +++
 <p> <p>
 
-### Listen To Sounds in Grenada
+### Listen To Sounds in Carriacou
 
 <figure> <figcaption></figcaption> <audio controls src="/images/nethermead-blog-grenada-audio3.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
 
