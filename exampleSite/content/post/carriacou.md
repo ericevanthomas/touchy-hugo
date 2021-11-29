@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = [""]
 date = 2021-11-29T19:07:10Z
 description = "Carriacou Windward Side"
 image = "/images/pxl_20211105_202932031.jpg"
