@@ -12,11 +12,12 @@ title = "THE GRENADINES"
 
 ### Listen To Sounds in the Grenadines
 
-<figure> <figcaption></figcaption> <audio controls src="/images/nethermead-blog-carriacou-and-sandy-island-audio.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
+<figure> <figcaption></figcaption> <audio controls src="/images/nethermead-blog-audio-svg.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
 
 ### Grenadines Impressions & Experiences
 
-<span class="impressions">Sailing by Kick 'Em Jenny underwater volcano. Ex-pats and salty sailors at Tyrell Bay. Walking tour of little stores in the hills of Carriacou. Impromptu music. Less rain. Gusts of wind. Sleepless nights checking on the anchor. Leon sands a coconut. Gorgeous Sandy Island surrounded by reef. Anchorage fills up with our cruising friends. Strip of white sand and pelicans crashing down. Natural kiddie pool perfect for Margot. 5-star chef at Paradise Beach. Laundry piling up. Missing home. Missing lettuce. Hillsborough is the Venice Beach of Carriacou. Dinghy has a leak. Always bailing water.</span>
+<span class="impressions">Boats selling lobster and banana bread. Raise yellow quarantine flag and wait for clearance. Hot walk to beautiful suspension bridge on Union Island. Forgot snacks. Bought eight sweet coconut buns, a loaf of bread, a slice of cake, a Sprite, and a beer. Grenadines popular spot for kite surfing. Stunning entrance to Salt Whistle Bay in Mayreau. White sand beach lined with brightly colored sarongs blowing in the wind. Island dotted with cactus, empty restaurants, an abandoned hotel, and children’s laughter. Grocery store called First Stop. 27-knot gusts at night. Charters come in and out. No ATM. Turtles swimming around boat in Tobago Cays. Eating more from cans. Alex feels sublime on her birthday. Swimming near purple sea fans. Eric spots a nurse shark. Tired from always trying to keep kids safe. Kids buzzing with energy at 6:30am, like a shaken up soda bottle waiting to pop. Exhausted. Tears on the beach. Highs are high and lows are low.  
+Nudity is illegal in Bequia, but so is camouflage clothing. Leon changed his camo shorts. Jay’s Sweet Spot feels like home. Fruit and veggie stalls on every corner. People sit with each other rather than sit with their phones.</span>
 
 <br>
 
