@@ -2,7 +2,6 @@
 categories = []
 date = 2021-12-12T04:00:00Z
 description = "Looking at the Reef Through a Bathyscope"
-draft = true
 image = "/images/pxl_20211121_183708865.jpg"
 image_webp = "images/blog/blog-1.webp"
 title = "THE GRENADINES"
