@@ -2,6 +2,7 @@
 categories = []
 date = 2021-11-29T04:00:00Z
 description = "Carriacou Windward Side"
+draft = true
 image = "/images/pxl_20211105_202932031.jpg"
 image_webp = "images/blog/blog-1.webp"
 title = "CARRIACOU"
