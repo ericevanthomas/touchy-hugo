@@ -1,16 +1,16 @@
 +++
 categories = []
-date = 2021-12-12T04:00:00Z
-description = "Looking at the Reef Through a Bathyscope"
+date = 2021-12-22T04:00:00Z
+description = "Christmas decorations in Martinique highway roundabout"
 draft = true
-image = "/images/pxl_20211121_183708865.jpg"
+image = "/images/tires.jpg"
 image_webp = "images/blog/blog-1.webp"
 title = "HAPPY HOLIDAYS"
 
 +++
 <p> <p>
 
-### Listen To Sounds in the Grenadines
+### Listen To Sounds of the Holidays in Martinique
 
 <figure> <figcaption></figcaption> <audio controls src="/images/nethermead-blog-audio-svg.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
 
@@ -20,4 +20,4 @@ title = "HAPPY HOLIDAYS"
 
 <br>
 
-![](/images/img_9673.jpg)![](/images/img_9677.jpg)![](/images/img_9717.jpg)![](/images/img_9723.jpg)![](/images/img_9739.jpg)![](/images/img_9774.jpg)![](/images/img_9780.jpg)![](/images/img_9788.jpg)![](/images/img_9810.jpg)![](/images/img_9819.jpg)![](/images/img_9833.jpg)![](/images/img_9836.jpg)![](/images/img_9851.jpg)![](/images/img_9862.jpg)![](/images/img_9900.jpg)![](/images/img_9937.jpg)![](/images/img_9940.jpg)![](/images/img_9942.jpg)![](/images/img_9952.jpg)![](/images/img-20211112-wa0001.jpg)![](/images/img-20211112-wa0002.jpg)![](/images/pxl_20211110_212519285.jpg)![](/images/pxl_20211111_202351581.jpg)![](/images/pxl_20211112_124948470.jpg)![](/images/pxl_20211113_151903455-portrait.jpg)![](/images/pxl_20211113_153558579.jpg)![](/images/pxl_20211114_211626118.jpg)![](/images/pxl_20211115_151405897.jpg)![](/images/pxl_20211118_133428121.jpg)![](/images/pxl_20211118_134350781.jpg)![](/images/pxl_20211119_211152502.jpg)![](/images/pxl_20211119_211401988-2.jpg)![](/images/pxl_20211120_115519563.jpg)![](/images/pxl_20211120_145634117.jpg)![](/images/pxl_20211120_145653442.jpg)![](/images/pxl_20211121_122215849.jpg)![](/images/pxl_20211121_124639390.jpg)![](/images/pxl_20211121_150634409.jpg)![](/images/pxl_20211121_183708865.jpg)![](/images/pxl_20211124_111527961.jpg)![](/images/pxl_20211124_143455778.jpg)![](/images/pxl_20211126_160812117.jpg)![](/images/pxl_20211126_162247813.jpg)![](/images/pxl_20211126_163105634.jpg)![](/images/img_9655.jpg)![](/images/img_9711.jpg)![](/images/img_9738.jpg)![](/images/img_9828.jpg)![](/images/img_9646-1.jpg)![](/images/hammock-photo-1.jpg)
+![](/images/stars-in-plaza.jpg)![](/images/santa.jpg)![](/images/creche.jpg)![](/images/pig.jpg)![](/images/santa-chair.jpg)![](/images/boat.jpg)
