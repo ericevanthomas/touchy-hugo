@@ -10,13 +10,17 @@ title = "HAPPY HOLIDAYS"
 +++
 <p> <p>
 
-### Listen To Sounds of the Holidays in Martinique
+### Listen To Sounds of Our Holidays in Martinique
 
-<figure> <figcaption></figcaption> <audio controls src="/images/nethermead-blog-audio-svg.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
+<figure> <figcaption></figcaption> <audio controls src="/images/holidays-nethermead-blog-post-mixed-audio-final.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
 
-### Grenadines Impressions & Experiences
+### Warm Greetings from the Car
 
-<span class="impressions">Live lobster and banana bread delivered to your boat. Raise yellow quarantine flag and wait for clearance. Hot walk to beautiful suspension bridge on Union Island. Grenadines popular spot for kite surfing. Stunning entrance to Salt Whistle Bay in Mayreau. White sand beach lined with brightly colored sarongs blowing in the wind. Island dotted with cactus, empty restaurants, an abandoned hotel, and children’s laughter. Grocery store called First Stop. 27-knot gusts at night. Charter boats come in and out. No ATM. Sea turtles swimming around boat in Tobago Cays. Eating more from cans. Alex feels sublime on her birthday. Snorkeling over giant purple sea fans and nurse sharks. Tired from always trying to keep kids safe. Kids buzzing with energy at 6:30am, like a shaken up soda bottle waiting to pop. Exhausted. Tears on the beach. Highs are high and lows are low. Nudity is illegal in Bequia, but so is camouflage clothing. Leon, worried, changed out of his camo shorts. Jay’s Sweet Spot feels like home. Fruit and veggie stalls on every corner. People sit with each other rather than sit with their phones.</span>
+<span class="impressions">
+
+Elaborate decorations in highway roundabouts. Holiday market. Chante Noel. Frangipane cake with hidden 
+
+</span>
 
 <br>
 
