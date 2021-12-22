@@ -15,7 +15,7 @@ title = "HAPPY HOLIDAYS"
 
 ### Martinique Holiday Impressions & Experiences
 
-<span class="impressions">Elaborate decorations in highway roundabouts. Open-air holiday market. Chanté Noël: European Christmas carols with African drumbeats. Frangipane cake with hidden ceramic figurine inside. Bustling mall with a Christmas train for kids driving around the halls. Long hunt for molasses to make gingerbread cookies. Singing voices rising from old stone church</span>
+<span class="impressions">Elaborate decorations in highway roundabouts. Open-air holiday market. Chanté Noël: European Christmas carols with African drumbeats. Frangipane cake with hidden ceramic figurine inside. Bustling mall with a Christmas train for kids driving around the halls. Long hunt for molasses to make gingerbread cookies. Singing voices rising from the old stone church</span>
 
 <br>
 
