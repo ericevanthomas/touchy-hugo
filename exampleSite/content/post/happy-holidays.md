@@ -2,7 +2,6 @@
 categories = []
 date = 2021-12-22T04:00:00Z
 description = "Christmas decorations in Martinique highway roundabout"
-draft = true
 image = "/images/tires.jpg"
 image_webp = "images/blog/blog-1.webp"
 title = "HAPPY HOLIDAYS"
