@@ -14,13 +14,9 @@ title = "HAPPY HOLIDAYS"
 
 <figure> <figcaption></figcaption> <audio controls src="/images/holidays-nethermead-blog-post-mixed-audio-final.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
 
-### Holiday Impressions in Martinique
+### Martinique Holiday Impressions & Experiences
 
-<span class="impressions">
-
-Elaborate decorations in highway roundabouts. Open-air holiday market. Chanté Noël: European Christmas carols with Africa drumbeats. Frangipane cake with hidden ceramic figurine inside. Bustling mall with a Christmas train for kids driving around the halls. Long hunt for molasses to make gingerbread cookies. Singing voices rising from old stone church. 
-
-</span>
+<span class="impressions">Elaborate decorations in highway roundabouts. Open-air holiday market. Chanté Noël: European Christmas carols with Africa drumbeats. Frangipane cake with hidden ceramic figurine inside. Bustling mall with a Christmas train for kids driving around the halls. Long hunt for molasses to make gingerbread cookies. Singing voices rising from old stone church</span>
 
 <br>
 
