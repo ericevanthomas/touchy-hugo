@@ -2,7 +2,6 @@
 categories = []
 date = 2022-01-31T04:00:00Z
 description = "Balata Gardens"
-draft = true
 image = "/images/pxl_20211220_194951560.jpg"
 image_webp = "images/blog/blog-1.webp"
 title = "MARTINIQUE"
