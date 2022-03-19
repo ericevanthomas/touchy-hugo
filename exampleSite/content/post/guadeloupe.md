@@ -2,7 +2,6 @@
 categories = []
 date = 2022-02-25T04:00:00Z
 description = "Ilet du Gosier"
-draft = true
 image = "/images/pxl_20220204_162049800.jpg"
 image_webp = "images/blog/blog-1.webp"
 title = "Guadeloupe"
