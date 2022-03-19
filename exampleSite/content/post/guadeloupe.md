@@ -12,7 +12,7 @@ title = "Guadeloupe"
 
 ### Listen To Sounds in Guadeloupe
 
-<figure> <figcaption></figcaption> <audio controls src="/images/nethermead-blog-audio-svg.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
+<figure> <figcaption></figcaption> <audio controls src="/images/guadeloupe-audio-project-for-blog-mixdown.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
 
 ### Guadeloupe Impressions & Experiences
 
