@@ -2,7 +2,6 @@
 categories = []
 date = 2022-03-18T04:00:00Z
 description = "Barbuda"
-draft = true
 image = "/images/pxl_20220301_132851017.jpg"
 image_webp = "images/blog/blog-1.webp"
 title = "ANTIGUA AND BARBUDA"
