@@ -12,11 +12,11 @@ title = "ANTIGUA"
 
 ### Listen To Sounds in Antigua
 
-<figure> <figcaption></figcaption> <audio controls src="/images/guadeloupe-audio-project-for-blog-mixdown.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
+<figure> <figcaption></figcaption> <audio controls src="/images/antigua-audio-for-blog-mixdown.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
 
-### Guadeloupe Impressions & Experiences
+### Antigua Impressions & Experiences
 
-<span class="impressions">Pedestrian street on Iles des Saintes. Playground buzzing with children late into the evening. Scooters, bikes, roller blades, and skateboards in the plaza. Chirping chicks. Rolly anchorage. 1,000-foot climb to lookout tower. Running in the hills. Frayed ropes on the beach. Pigeons cooing. Mooring ball clanking against the hull. Noisy gas scooters on the streets. Buddy boats disperse. Friday market in Gosier. Handmade ice cream. Bokits. Kids growling and laughing at each other is a universal communication. Old netting strung in the trees. Friends from Madison visit. Wine and good conversation. Dinghy is like a clown car. Attempts at fixing outboard. Story time with our friend Davey. Shooting stars. Upside down moon. Hot springs flow into the sea. A mountain of chichis and Nutella waffles.</span>
+<span class="impressions">Mega yachts. Antigua 600 race. Glassy water in Falmouth. Reunite with cruising friends from SV Mowzer. They leave for good. Leon builds a robot. Many fees to enter Antigua. Abandoned casino in Jolly Harbor. Thousands of dusty slot machines left behind. Eric’s sister visits. Joy of family. Sea sickness. Lots of salty chips. Turquoise waters. Robert De Niro's unwelcome luxury development on Barbuda. Margot spots a band of horses running on the beach at twilight. Magnificent frigate bird sanctuary. Red throats inflate like balloons. Great Bird Island is a giant terrarium. Fierce, unrelenting winds develop. Eric has debilitating back spasms. Can’t sail. Feeling lonely without support. Wind snaps dinghy line. Burgers and shakes at Sweet T's. Leon finds artifact in ruins.</span>
 
 <br>
 
