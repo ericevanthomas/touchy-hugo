@@ -1,7 +1,7 @@
 +++
 categories = []
 date = 2022-04-10T16:00:00Z
-description = "Barbuda"
+description = "Saint John"
 draft = true
 image = "/images/img_2144.jpg"
 image_webp = "images/blog/blog-1.webp"
