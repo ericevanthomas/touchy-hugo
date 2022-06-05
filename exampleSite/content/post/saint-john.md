@@ -16,7 +16,7 @@ title = "Saint John"
 
 ### Saint John Impressions & Experiences
 
-<span class="impressions">Mega yachts. Antigua 600 race. Glassy water in Falmouth. Reunite with cruising friends from SV Mowzer. They leave for good. Leon builds a robot. Many fees to enter Antigua. Abandoned casino in Jolly Harbor. Thousands of dusty slot machines left behind. Eric’s sister visits. Joy of family. Sea sickness. Lots of salty chips. Turquoise waters. Robert De Niro's unwelcome luxury development on Barbuda. Margot spots a band of horses running on the beach at twilight. Magnificent frigate bird sanctuary. Red throats inflate like balloons. Great Bird Island is a giant terrarium. Fierce, unrelenting winds develop. Eric has debilitating back spasms. Can’t sail. Feeling lonely without support. Wind snaps dinghy line. Burgers and shakes at Sweet T's. Leon finds artifact in ruins.</span>
+<span class="impressions">Meet Alex’s parents at the ferry. Stay in Airbnb. Hot showers. Loads of laundry. Driveway so steep we can only go up in reverse. Expensive groceries. $10 box of crackers. Donkeys in the road. Aggressive iguana whipping its tail and hissing at us. Tourists all drive the same rental Jeeps and sit in the same Tommy Bahama beach chairs. Stunning white sand beaches. Favorites were Trunk Bay and Maho Bay. Perfect wind for short sail. Alex’s Mom surprisingly did not get seasick. Reunite with cruising friends. Floating taco bar. Goats eating from dumpster. Sally the chicken always sneaking into the house. Alex’s sister and her family visits. Cousins play in water. Family Ultimate frisbee game on beach. Pizza and flame throwing. Hop into dinghy while boat is still moving and bopping. Say farewell.</span>
 
 <br>
 
