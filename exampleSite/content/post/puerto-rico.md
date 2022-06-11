@@ -2,7 +2,6 @@
 categories = []
 date = 2022-04-28T16:00:00Z
 description = "Puerto Rico"
-draft = true
 image = "/images/pxl_20220420_183506936.jpg"
 image_webp = "images/blog/blog-1.webp"
 title = "PUERTO RICO"
@@ -16,7 +15,7 @@ title = "PUERTO RICO"
 
 ### Puerto Rico Impressions & Experiences
 
-<span class="impressions">Meet Alex’s parents at the ferry. Stay in Airbnb. Hot showers. Loads of laundry. Driveway so steep we can only go up in reverse. Expensive groceries. $10 box of crackers. Donkeys in the road. Aggressive iguana whipping its tail and hissing at us. Tourists all drive the same rental Jeeps and sit in the same Tommy Bahama beach chairs. Stunning white sand beaches. Favorites were Trunk Bay and Maho Bay. Perfect wind for short sail. Alex’s Mom surprisingly did not get seasick. Reunite with cruising friends. Floating taco bar. Goats eating from dumpster. Sally the chicken always sneaking into the house. Alex’s sister and her family visits. Cousins play in water. Family Ultimate frisbee game on beach. Pizza and flame throwing. Hop into dinghy while boat is still moving and bopping. Say farewell.</span>
+<span class="impressions">Nethermead is up for sale and generates lots of interest. Charming Culebra. Loud bachata in Vieques. Wild horses on the streets. No easy place to leave dinghy in Sun Bay. Long late night walk from town. Friends from Seattle visit. Bioluminescence like glitter. Where have all the fruits and veggies gone? Easter bunny leaves Pringles and gummy bears. Sail with friends to mainland Puerto Rico. They all get sea sick. Kids play Apple Pie Monster in Palmas Del Mar. Leon scoots at skate park. Lime in the coconut blender drinks. Stunning El Yunque Rainforest. Paletas food truck in Luquillo. Getting boat ready for survey. Boat sale moving quickly. Completely charmed by Old San Juan. Meeting boat buyers. Saying goodbye to our beloved Nethermead and passing her on to a new family. Our trip continues ashore. Enjoying land but missing cruising life. Overnight ferry to Dominican Republic. Preparing ourselves to head home.</span>
 
 <br>
 
