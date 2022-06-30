@@ -1,20 +1,20 @@
 +++
 categories = []
-date = 2022-05-04T16:00:00Z
-description = "Puerto Rico"
+date = 2022-06-15T16:00:00Z
+description = "Playa Bonita Dominican Republic"
 draft = true
-image = "/images/pxl_20220420_183506936.jpg"
+image = "/images/pxl_20220520_153753179.jpg"
 image_webp = "images/blog/blog-1.webp"
 title = "DOMINICAN REPUBLIC"
 
 +++
 <p> <p>
 
-### Listen To Sounds in Puerto Rico
+### Listen To Sounds in Dominican Republic
 
 <figure> <figcaption></figcaption> <audio controls src="/images/puerto-rico-nethermead-blog-audio-mixdown.mp3"> Your browser does not support the <code>audio</code> element. </audio> </figure> <p>
 
-### Puerto Rico Impressions & Experiences
+### Dominican Republic Impressions & Experiences
 
 <span class="impressions">Nethermead is up for sale and generates lots of interest. Charming Culebra. Loud bachata in Vieques. Wild horses on the streets. No easy place to leave dinghy in Sun Bay. Long late night walk from town. Friends from Seattle visit. Bioluminescence like glitter. Where have all the fruits and veggies gone? Easter bunny leaves Pringles and gummy bears. Sail with friends to mainland Puerto Rico. They all get sea sick. Kids play Apple Pie Monster in Palmas Del Mar. Leon scoots at skate park. Lime in the coconut blender drinks. Stunning El Yunque Rainforest. Paletas food truck in Luquillo. Getting boat ready for survey. Boat sale moving quickly. Completely charmed by Old San Juan. Meeting boat buyers. Saying goodbye to our beloved Nethermead and passing her on to a new family. Our trip continues ashore. Enjoying land but missing cruising life. Overnight ferry to Dominican Republic. Preparing ourselves to head home.</span>
 
